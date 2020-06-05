@@ -5,6 +5,7 @@ padding:0;
 font-family:sans-serif;
 background:url(image/polygonal.jpg);
 background-size:cover;
+background-repeat:no-repeat;
 }
 p{color:#ff1a1a;}
 a{color:#5900b3;}
